@@ -4,7 +4,7 @@ This project provides a comprehensive dashboard for monitoring and analyzing var
 # Getting Started
 To get started with the Cryptocurrency Dashboard, follow these steps:
 1. Clone the Repository: Clone this repository to your local machine using Git:
-    git clone https://github.com/va-ishnavi/react-crypto/tree/main/crypto-dashboard
+    git clone https://github.com/va-ishnavi/CryptoCurrency
    
 2. Install Dependencies: Navigate to the project directory and install the required 
    dependencies using npm or yarn:
