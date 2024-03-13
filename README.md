@@ -4,7 +4,7 @@ This project provides a comprehensive dashboard for monitoring and analyzing var
 # Getting Started
 To get started with the Cryptocurrency Dashboard, follow these steps:
 1. Clone the Repository: Clone this repository to your local machine using Git:
-    git clone https://github.com/va-ishnavi/react-crypto/tree/main/crypto-dashboard
+    git clone https://github.com/va-ishnavi/CryptoCurrency
    
 2. Install Dependencies: Navigate to the project directory and install the required 
    dependencies using npm or yarn:
@@ -25,7 +25,7 @@ Write clear explanations of your contributions when submitting a pull request.
 
 ## Demo Link
 
-It is deployed using Netlify - 
+It is deployed using Netlify - https://alma-cryptocurrency-by-vaishnavi.netlify.app
 
 In the project directory, you can run:
 
