@@ -25,7 +25,7 @@ Write clear explanations of your contributions when submitting a pull request.
 
 ## Demo Link
 
-It is deployed using Netlify - 
+It is deployed using Netlify - https://alma-cryptocurrency-by-vaishnavi.netlify.app
 
 In the project directory, you can run:
 
