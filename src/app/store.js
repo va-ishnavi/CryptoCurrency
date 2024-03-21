@@ -9,7 +9,7 @@ import exchangeCurrencyDropDownReducer from "../features/exchangeCurrenciesSlice
 import chartTypeSliceReducer from "../features/chartTypeSlice";
 
 //configure store
- const store = configureStore({
+export const store = configureStore({
   //reducers
   reducer: {
     [coinApi.reducerPath]: coinApi.reducer,
@@ -27,4 +27,3 @@ import chartTypeSliceReducer from "../features/chartTypeSlice";
       .concat(currencyApi.middleware)
       .concat(marketDataApi.middleware),
  });
- export default store;

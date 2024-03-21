@@ -101,8 +101,8 @@ const ExchangeRates = () => {
               />
               <ConvertedValue>{convertedValue}</ConvertedValue>
               </Right>
-          </Middle>
-          <Bottom>
+             </Middle>
+             <Bottom>
             <Button onClick={handleClick}>Exchange</Button>
           </Bottom>
         </Wrapper>
